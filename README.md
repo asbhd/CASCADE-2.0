@@ -13,7 +13,7 @@ To correctly setup the environment for the model, the following dependencies are
 * KGCNN==2.2.1
 * pandas==1.5.3
 
-To set up the environment one could pip install the above package in a virtual environment, or use the cascadeV2.yaml file to setup the required environment using ```conda env create -f cascadeV2.yml```
+To set up the environment one could pip install the above package in a virtual environment (Python 3.10 recommended), or use the cascadeV2.yaml file to setup the required environment using ```conda env create -f cascadeV2.yml```
 
 Using the above version of the packages is recommended, as some import paths and codes have been known to be substantially changed in the subsequent versions of the packages.
 
