@@ -26,7 +26,7 @@ To train a model go to the respective directory and run ```python preprocess.py`
 Within each directory trained model weights are provided to make predictions from .sdf files. Notebooks containing examples to make predictions using the pre-trained models have been included
 
 ## Webserver
-The model has also been implemented as a webserver to enable quick predictions from SMILES strings. The webserver can be accessed at: https://nova.chem.colostate.edu/v2/cascade/home/
+The model has also been implemented as a webserver to enable quick predictions from SMILES strings. The webserver can be accessed at: https://nova.chem.colostate.edu/v2/cascade/
 
 ## Citation
 If you use CASCADE-2.0 in your work, please cite the following work: 
